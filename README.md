@@ -1,1 +1,0 @@
-# yamaha_pract1
