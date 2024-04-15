@@ -5,15 +5,15 @@
 }
 @font-face {
   font-family: outfit-bold;
-  src: url(./items/Outfit-Bold.ttf);
+  src: url(./public/Outfit-Bold.ttf);
 }
 @font-face {
   font-family: outfit-light;
-  src: url(./items/Outfit-Light.ttf);
+  src: url(./public/Outfit-Light.ttf);
 }
 @font-face {
   font-family: teko-medium;
-  src: url(./items/Teko-Medium.ttf);
+  src: url(./public/Teko-Medium.ttf);
 }
 
 body {
